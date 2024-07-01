@@ -98,9 +98,9 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: wechat
-    icon_pack: fas
-    link: 'hxx1056058740'
+  #- icon: wechat
+  #  icon_pack: fas
+  #  link: 'hxx1056058740'
   #- icon: twitter
   #icon_pack: fab
   #link: https://twitter.com/GeorgeCushen
@@ -108,7 +108,7 @@ social:
   - icon: blog
     icon_pack: fas
     link: https://blog.csdn.net/weixin_43470383
-  - icon: ORCID
+  - icon: orcid
     icon_pack: fas
     link: https://orcid.org/0000-0001-8216-7880
   #display:
@@ -118,7 +118,10 @@ social:
     #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/1056058740
+    link: https://github.com/1056058740    
+  - icon: ✉️
+    icon_pack: fab
+    link: 35120221151636@stu.xmu.edu.cn
   #- icon: linkedin
   #  icon_pack: fab
   #  link: https://www.linkedin.com/

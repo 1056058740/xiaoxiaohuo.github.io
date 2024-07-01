@@ -30,9 +30,8 @@ bio: Xiaoxiao Huo is currently working toward the M.S. degree in School of Aeros
 # Interests to show in About widget
 interests:
   - Multi-energy system operation and planning
-  - Model predictive control
-  - Model-free control
-  - Machine learning
+  - Electric power conversion in microgrids
+  - Model predictive control and model-free control
 
 # Education to show in About widget
 education:
@@ -109,6 +108,9 @@ social:
   - icon: blog
     icon_pack: fas
     link: https://blog.csdn.net/weixin_43470383
+  - icon: ORCID
+    icon_pack: fas
+    link: https://orcid.org/0000-0001-8216-7880
   #display:
   #  header: true
   #- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -131,4 +133,4 @@ social:
 highlight_name: true
 ---
 
-Xiaoxiao Huo is currently working toward the M.S. degree in School of Aerospace Engineering, Xiamen University, Xiamen, China. Her research interests including multi-energy system operation and planning, electric power conversion in microgrids. Till Now, she has published 5 journal papers, 2 conference papers, and 2 patents. She served as a reviewer of Journal of energy storage , Energy Conversion and Economics, IEEE Access, and IEEE IAS Publications. {style="text-align: justify;"}
+Xiaoxiao Huo is currently working toward the M.S. degree in School of Aerospace Engineering, Xiamen University, Xiamen, China. Her research interests including multi-energy system operation and planning, electric power conversion in microgrids. Till Now, she has published 5 journal papers, 2 conference papers, and 2 patents. She served as a reviewer of Journal of energy storage , Energy Conversion and Economics, IEEE Access, and IEEE IAS Publications. 

@@ -25,13 +25,11 @@ organizations:
     url: https://www.xmu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include power electronics, control engineering, predictive control, model predictive control, model-free control and machine learning.
+bio: Xiaoxiao Huo is currently working toward the M.S. degree in School of Aerospace Engineering, Xiamen University, Xiamen, China. Her research interests including multi-energy system operation and planning, electric power conversion in microgrids. Till Now, she has published 5 journal papers, 2 conference papers, and 2 patents. She served as a reviewer of Journal of energy storage , Energy Conversion and Economics, IEEE Access, and IEEE IAS Publications.
 
 # Interests to show in About widget
 interests:
-  - Power electronics
-  - Control engineering
-  - Predictive control
+  - Multi-energy system operation and planning
   - Model predictive control
   - Model-free control
   - Machine learning
@@ -52,7 +50,7 @@ skills:
   - name: Technical
     items:
       - name: Matlab/Simulink
-        description: 'Power electronics modeling and simulation, power system configuration optimization'
+        description: 'Power electronics modeling and simulation, integrated energy planning and operation'
         percent: 90
         #icon: Matlab
         #icon_pack: fas
@@ -61,16 +59,16 @@ skills:
         percent: 80
         #icon: chart-line
         #icon_pack: fas
-      - name: Speedgoat/NI compactRIO
-        description: 'Hardware-in-the-loop simulation (Hils)'
-        percent: 70
-        #icon: database
-        #icon_pack: fas
       - name: C/C++
         description: 'Embedded development and machine vision'
         percent: 60
         #icon: database
         #icon_pack: fas
+      - name: Cplex/Gurobi
+        description: 'Solver'
+        percent: 70
+        #icon: database
+        #icon_pack: fas        
       - name: Proteus/Labview/Multisim
         description: 'Electronic circuit simulation design'
         percent: 60
@@ -108,6 +106,9 @@ social:
   #icon_pack: fab
   #link: https://twitter.com/GeorgeCushen
   #label: Follow me on Twitter
+  - icon: blog
+    icon_pack: fas
+    link: https://blog.csdn.net/weixin_43470383
   #display:
   #  header: true
   #- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -130,5 +131,4 @@ social:
 highlight_name: true
 ---
 
-Xiaoxiao Huo is currently working toward the M.S. degree in School of Aerospace Engineering, Xiamen University, Xiamen, China. Her research interests include power electronics, control engineering, predictive control, model predictive control, model-free control, ultralocal model, intelligent algorithms, machine learning and hardware-in-the-loop simulation.
-{style="text-align: justify;"}
+Xiaoxiao Huo is currently working toward the M.S. degree in School of Aerospace Engineering, Xiamen University, Xiamen, China. Her research interests including multi-energy system operation and planning, electric power conversion in microgrids. Till Now, she has published 5 journal papers, 2 conference papers, and 2 patents. She served as a reviewer of Journal of energy storage , Energy Conversion and Economics, IEEE Access, and IEEE IAS Publications. {style="text-align: justify;"}

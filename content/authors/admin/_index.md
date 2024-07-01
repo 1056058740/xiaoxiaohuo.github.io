@@ -106,10 +106,10 @@ social:
   #link: https://twitter.com/GeorgeCushen
   #label: Follow me on Twitter
   - icon: blog
-    icon_pack: fas
+    icon_pack: fab
     link: https://blog.csdn.net/weixin_43470383
   - icon: orcid
-    icon_pack: fas
+    icon_pack: fab
     link: https://orcid.org/0000-0001-8216-7880
   #display:
   #  header: true

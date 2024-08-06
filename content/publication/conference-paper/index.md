@@ -40,9 +40,9 @@ tags: [MPC, THD, Single-phase inverters]
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: DOI
+  url: 10.1109/ICPET59380.2023.10367520
 
 url_pdf: 'https://ieeexplore.ieee.org/document/10367520'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'

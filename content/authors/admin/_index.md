@@ -107,7 +107,7 @@ social:
   #label: Follow me on Twitter
   - icon: blog
     icon_pack: fab
-    link: https://blog.csdn.net/weixin_43470383
+    link: https://xiao-xiao.blog.csdn.net
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0001-8216-7880

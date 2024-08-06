@@ -34,9 +34,9 @@ tags:
 - Source Themes
 featured: false
 
- links:
- - name: "Multi-Sampling Rate Finite Control Set Model Predictive Control and Adaptive Method of Single-Phase Inverter"
-   url: "https://www.mdpi.com/2079-9292/12/13/2848"
+links:
+- name: "Multi-Sampling Rate Finite Control Set Model Predictive Control and Adaptive Method of Single-Phase Inverter"
+  url: "https://www.mdpi.com/2079-9292/12/13/2848"
 url_pdf: https://www.mdpi.com/2079-9292/12/13/2848
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: ''

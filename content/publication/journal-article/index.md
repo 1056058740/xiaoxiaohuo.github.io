@@ -31,11 +31,12 @@ abstract: With the development of power switches and processor performance in re
 summary: The current and voltage at the non-sampling time are reconstructed using the current prediction control principle and the input observer theory.
 
 tags:
-- Source Themes
+- MPC
+- Multi-sampling
 featured: false
 
 links:
-- name: "Multi-Sampling Rate Finite Control Set Model Predictive Control and Adaptive Method of Single-Phase Inverter"
+- name: "DOI"
   url: "https://www.mdpi.com/2079-9292/12/13/2848"
 url_pdf: https://www.mdpi.com/2079-9292/12/13/2848
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'

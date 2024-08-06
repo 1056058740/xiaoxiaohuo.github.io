@@ -34,7 +34,7 @@ abstract: The single-phase inverter is a commonly used DC/AC converter in the in
 # Summary. An optional shortened abstract.
 summary: A twisted parameter FCS-MPC method that artificially twists the model parameters.
 
-tags: [MPC]
+tags: [MPC, THD, Single-phase inverters]
 
 # Display this page in the Featured widget?
 featured: true
